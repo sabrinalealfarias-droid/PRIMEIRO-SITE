@@ -1,18 +1,31 @@
-body{
-    background-color: black;
-    color: rgb(255, 255, 255);
-}
 
-li{
-    color: rgb(0, 42, 255);
-}
+ body{
+background-color: black;
+color: white;
 
-#html{
-    color: rgb(255, 128, 0);
-}
+        }
+        li{
+            font-size: 23px;
+            color: brown;
+        }
+        #html{
+            color: rgb(226, 105, 18);
+        }
+        #css{
+            color: rgb(10, 88, 145);
+        }
+        #javascript{
+            color: rgb(235, 202, 19);
+        }
+       button{
+            background-color: blue;
+            padding: 10px 20px; /* ESPAÇO INTERNO */
+            margin: 10px; /* ESPAÇO EXTERNO */
+            border-radius: 10px; /* BORDA */
+        }
 
-
-
-
-
- background-color: deeppink
+        span{
+            font-size: 20px;
+            color: aliceblue
+        }
+        
