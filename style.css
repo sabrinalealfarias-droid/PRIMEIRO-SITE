@@ -7,8 +7,11 @@ color: white;
         li{
             font-size: 23px;
             color: brown;
+            displey: flex ; 
+            flex-direction: column;
+            align-items: center;
         }
-        #html{
+                #html{
             color: rgb(226, 105, 18);
         }
         #css{
